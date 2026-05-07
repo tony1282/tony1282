@@ -1,82 +1,111 @@
-👋 Hola, soy Antony
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Antony - Developer</title>
+</head>
 
-Desarrollador enfocado en Flutter, backend y creación de soluciones tecnológicas para problemas reales.
+<body>
 
-Actualmente trabajo en aplicaciones móviles y sistemas administrativos relacionados con:
+  <h1>👋 Hola, soy Antony</h1>
 
-📍 Localización en tiempo real
-🚨 Sistemas SOS y seguridad
-🐑 Gestión ganadera
-🥛 Control de producción de leche
-☕ Sistemas de cafetería
-🌐 Dashboards web y backend
+  <p>
+    Desarrollador enfocado en Flutter, backend y creación de soluciones tecnológicas para problemas reales.
+  </p>
 
-🚀 Tecnologías
-Frontend & Mobile
-Flutter
-Dart
-Mapbox
-Firebase
+  <p>Actualmente trabajo en aplicaciones móviles y sistemas administrativos relacionados con:</p>
 
-Backend & Database
-Supabase
-PostgreSQL
-Firestore
-REST APIs
+  <ul>
+    <li>📍 Localización en tiempo real</li>
+    <li>🚨 Sistemas SOS y seguridad</li>
+    <li>🐑 Gestión ganadera</li>
+    <li>🥛 Control de producción de leche</li>
+    <li>☕ Sistemas de cafetería</li>
+    <li>🌐 Dashboards web y backend</li>
+  </ul>
 
-Aprendiendo
-Python
-Desarrollo Web
-Arquitectura de Software
+  <h2>🚀 Tecnologías</h2>
 
-📂 Proyectos
+  <h3>Frontend & Mobile</h3>
+  <ul>
+    <li>Flutter</li>
+    <li>Dart</li>
+    <li>Mapbox</li>
+    <li>Firebase</li>
+  </ul>
 
-📍 Family SOS App
-Aplicación de localización familiar en tiempo real con:
-Mapbox
-Firebase
-Alertas SOS
-Círculos familiares
-Notificaciones push
+  <h3>Backend & Database</h3>
+  <ul>
+    <li>Supabase</li>
+    <li>PostgreSQL</li>
+    <li>Firestore</li>
+    <li>REST APIs</li>
+  </ul>
 
-🐑 Sheep Management System
+  <h3>Aprendiendo</h3>
+  <ul>
+    <li>Python</li>
+    <li>Desarrollo Web</li>
+    <li>Arquitectura de Software</li>
+  </ul>
 
-Sistema de administración ganadera:
-Control de animales
-Enfermedades y tratamientos
-Finanzas
-Dashboard administrativo
-Gestión de registros
+  <h2>📂 Proyectos</h2>
 
-🥛 Milk Management System
+  <h3>📍 Family SOS App</h3>
+  <ul>
+    <li>Mapbox</li>
+    <li>Firebase</li>
+    <li>Alertas SOS</li>
+    <li>Círculos familiares</li>
+    <li>Notificaciones push</li>
+  </ul>
 
-Sistema de gestión de producción de leche:
-Registro de producción diaria
-Control por fechas y lotes
-Seguimiento de inventario
-Reportes básicos
-Organización de datos para análisis
+  <h3>🐑 Sheep Management System</h3>
+  <ul>
+    <li>Control de animales</li>
+    <li>Enfermedades y tratamientos</li>
+    <li>Finanzas</li>
+    <li>Dashboard administrativo</li>
+    <li>Gestión de registros</li>
+  </ul>
 
-☕ Coffee Shop System
-Sistema administrativo para cafetería:
-Gestión de productos
-Control de ventas
-Registro de pedidos
-Administración básica de inventario
-Interfaz enfocada en operación rápida
+  <h3>🥛 Milk Management System</h3>
+  <ul>
+    <li>Registro de producción diaria</li>
+    <li>Control por fechas y lotes</li>
+    <li>Seguimiento de inventario</li>
+    <li>Reportes básicos</li>
+    <li>Organización de datos para análisis</li>
+  </ul>
 
-🧠 Intereses
-Desarrollo móvil
-Backend
-Sistemas escalables
-UI/UX
-Tecnología aplicada al mundo real
-Astronomía y ciencia 🌌
+  <h3>☕ Coffee Shop System</h3>
+  <ul>
+    <li>Gestión de productos</li>
+    <li>Control de ventas</li>
+    <li>Registro de pedidos</li>
+    <li>Administración de inventario</li>
+    <li>Interfaz enfocada en operación rápida</li>
+  </ul>
 
-🎯 Objetivo
+  <h2>🧠 Intereses</h2>
+  <ul>
+    <li>Desarrollo móvil</li>
+    <li>Backend</li>
+    <li>Sistemas escalables</li>
+    <li>UI/UX</li>
+    <li>Tecnología aplicada al mundo real</li>
+    <li>Astronomía y ciencia 🌌</li>
+  </ul>
 
-Seguir creciendo como desarrollador y construir software útil, funcional y bien diseñado.
+  <h2>🎯 Objetivo</h2>
+  <p>
+    Seguir creciendo como desarrollador y construir software útil, funcional y bien diseñado.
+  </p>
 
-⚡ Fun fact
+  <h2>⚡ Fun fact</h2>
+  <p>
+    A veces termino pensando más en el universo, la conciencia y la existencia que en programar 😄
+  </p>
 
-A veces termino pensando más en el universo, la conciencia y la existencia que en programar 😄
+</body>
+</html>
