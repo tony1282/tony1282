@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <title>Antony - Developer</title>
 </head>
 
 <body>
@@ -106,6 +105,11 @@
   <p>
     A veces termino pensando más en el universo, la conciencia y la existencia que en programar 😄
   </p>
+
+  <h2>📫 Contacto</h2>
+  <ul>
+    <li>Email: <a href="mailto:antonydelacruzramos@gmail.com">antonydelacruzramos@gmail.com</a></li>
+  </ul>
 
 </body>
 </html>
