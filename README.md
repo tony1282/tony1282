@@ -17,7 +17,6 @@
   <ul>
     <li>📍 Localización en tiempo real</li>
     <li>🚨 Sistemas SOS y seguridad</li>
-    <li>🐑 Gestión ganadera</li>
     <li>🥛 Control de producción de leche</li>
     <li>☕ Sistemas de cafetería</li>
     <li>🌐 Dashboards web y backend</li>
@@ -59,14 +58,6 @@
     <li>Notificaciones push</li>
   </ul>
 
-  <h3>🐑 Sheep Management System</h3>
-  <ul>
-    <li>Control de animales</li>
-    <li>Enfermedades y tratamientos</li>
-    <li>Finanzas</li>
-    <li>Dashboard administrativo</li>
-    <li>Gestión de registros</li>
-  </ul>
 
   <h3>🥛 Milk Management System</h3>
   <ul>
@@ -93,7 +84,6 @@
     <li>Sistemas escalables</li>
     <li>UI/UX</li>
     <li>Tecnología aplicada al mundo real</li>
-    <li>Astronomía y ciencia 🌌</li>
   </ul>
 
   <h2>🎯 Objetivo</h2>
@@ -101,11 +91,7 @@
     Seguir creciendo como desarrollador y construir software útil, funcional y bien diseñado.
   </p>
 
-  <h2>⚡ Fun fact</h2>
-  <p>
-    A veces termino pensando más en el universo, la conciencia y la existencia que en programar 😄
-  </p>
-
+  
   <h2>📫 Contacto</h2>
   <ul>
     <li>Email: <a href="mailto:antonydelacruzramos@gmail.com">antonydelacruzramos@gmail.com</a></li>
