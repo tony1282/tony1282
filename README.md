@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  software Engineer
+  Software Engineer
 </h3>
 
 <p align="center">
