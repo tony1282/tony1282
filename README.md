@@ -138,6 +138,38 @@ REST APIs
 
 ---
 
+# 🥛 Milk Management System
+
+Sistema para gestión y control de producción de leche.
+
+
+### Objetivo:
+
+Crear una solución tecnológica para organizar la información de producción, facilitar el seguimiento de datos y mejorar el control del proceso.
+
+
+### Características:
+
+- 🥛 Registro de producción diaria
+- 📅 Control por fechas y registros históricos
+- 📦 Seguimiento de inventario
+- 📊 Organización de datos para análisis
+- 📝 Administración de información del proceso productivo
+
+
+### Tecnologías:
+
+```text
+Flutter
+Python
+REST APIs
+PostgreSQL
+Bases de datos
+```
+
+
+---
+
 # 🇮🇹 Italian POS System
 
 Sistema POS desarrollado para un negocio de productos de belleza.
