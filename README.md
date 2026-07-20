@@ -1,101 +1,84 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-</head>
+<h1 align="center">
+  👋 Hola, soy Antony
+</h1>
 
-<body>
+<h3 align="center">
+  Backend Developer | Flutter Developer | Software Builder
+</h3>
 
-  <h1>👋 Hola, soy Antony</h1>
-
-  <p>
-    Desarrollador enfocado en Flutter, backend y creación de soluciones tecnológicas para problemas reales.
-  </p>
-
-  <p>Actualmente trabajo en aplicaciones móviles y sistemas administrativos relacionados con:</p>
-
-  <ul>
-    <li>📍 Localización en tiempo real</li>
-    <li>🚨 Sistemas SOS y seguridad</li>
-    <li>🥛 Control de producción de leche</li>
-    <li>☕ Sistemas de cafetería</li>
-    <li>🌐 Dashboards web y backend</li>
-  </ul>
-
-  <h2>🚀 Tecnologías</h2>
-
-  <h3>Frontend & Mobile</h3>
-  <ul>
-    <li>Flutter</li>
-    <li>Dart</li>
-    <li>Mapbox</li>
-    <li>Firebase</li>
-  </ul>
-
-  <h3>Backend & Database</h3>
-  <ul>
-    <li>Supabase</li>
-    <li>PostgreSQL</li>
-    <li>Firestore</li>
-    <li>REST APIs</li>
-  </ul>
-
-  <h3>Aprendiendo</h3>
-  <ul>
-    <li>Python</li>
-    <li>Desarrollo Web</li>
-    <li>Arquitectura de Software</li>
-  </ul>
-
-  <h2>📂 Proyectos</h2>
-
-  <h3>📍 Family SOS App</h3>
-  <ul>
-    <li>Mapbox</li>
-    <li>Firebase</li>
-    <li>Alertas SOS</li>
-    <li>Círculos familiares</li>
-    <li>Notificaciones push</li>
-  </ul>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Construyendo+software+para+problemas+reales;Flutter+%2B+Django+%2B+PostgreSQL;Aprendiendo+arquitectura+de+sistemas;Creando+soluciones+escalables" />
+</p>
 
 
-  <h3>🥛 Milk Management System</h3>
-  <ul>
-    <li>Registro de producción diaria</li>
-    <li>Control por fechas y lotes</li>
-    <li>Seguimiento de inventario</li>
-    <li>Reportes básicos</li>
-    <li>Organización de datos para análisis</li>
-  </ul>
+---
 
-  <h3>☕ Coffee Shop System</h3>
-  <ul>
-    <li>Gestión de productos</li>
-    <li>Control de ventas</li>
-    <li>Registro de pedidos</li>
-    <li>Administración de inventario</li>
-    <li>Interfaz enfocada en operación rápida</li>
-  </ul>
+## 🚀 Sobre mí
 
-  <h2>🧠 Intereses</h2>
-  <ul>
-    <li>Desarrollo móvil</li>
-    <li>Backend</li>
-    <li>Sistemas escalables</li>
-    <li>UI/UX</li>
-    <li>Tecnología aplicada al mundo real</li>
-  </ul>
+Soy desarrollador enfocado en crear aplicaciones móviles, sistemas administrativos y soluciones backend.
 
-  <h2>🎯 Objetivo</h2>
-  <p>
-    Seguir creciendo como desarrollador y construir software útil, funcional y bien diseñado.
-  </p>
+Me interesa construir software que ayude a empresas y personas a mejorar sus procesos mediante tecnología.
 
-  
-  <h2>📫 Contacto</h2>
-  <ul>
-    <li>Email: <a href="mailto:antonydelacruzramos@gmail.com">antonydelacruzramos@gmail.com</a></li>
-  </ul>
+Actualmente trabajo con:
 
-</body>
-</html>
+- 📱 Aplicaciones móviles con Flutter
+- 🐍 Backend con Python y Django
+- 🌐 APIs REST
+- 🗄️ PostgreSQL y Supabase
+- 🏗️ Arquitectura de software
+
+
+---
+
+## 🛠️ Tecnologías
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,django,postgres,supabase,firebase,git,github,vscode" />
+</p>
+
+
+### Frontend & Mobile
+
+- Flutter
+- Dart
+- Mapbox
+- Firebase
+- Diseño de interfaces
+
+
+### Backend
+
+- Python
+- Django REST Framework
+- PostgreSQL
+- Supabase
+- REST APIs
+
+
+### Herramientas
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+
+---
+
+# 📂 Proyectos
+
+
+## 🚨 Family SOS App
+
+Aplicación móvil enfocada en seguridad familiar y localización.
+
+Características:
+
+- 📍 Ubicación en tiempo real
+- 🚨 Alertas SOS
+- 👨‍👩‍👧 Círculos familiares
+- 🔔 Notificaciones push
+- 🗺️ Integración con mapas
+
+
+Tecnologías:
