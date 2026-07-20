@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer
+  Software Developer | Backend & Mobile Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Construyendo+software+para+problemas+reales;Flutter+%2B+Django+%2B+PostgreSQL;Desarrollando+sistemas+empresariales;Aprendiendo+arquitectura+de+software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aprendiendo+y+creando+software;Flutter+%2B+Dart+%2B+Python;Construyendo+aplicaciones+reales;Mejorando+mis+habilidades+cada+día" />
 </p>
 
 <p align="center">
@@ -19,18 +19,18 @@
 
 # 🚀 Sobre mí
 
-Soy desarrollador enfocado en crear aplicaciones móviles, sistemas administrativos y soluciones backend.
+Soy desarrollador en formación enfocado en crear aplicaciones móviles, sistemas administrativos y soluciones backend.
 
-Me gusta transformar problemas reales en software funcional, escalable y bien estructurado.
+Me gusta aprender construyendo proyectos reales, mejorar mis habilidades de programación y entender cómo funcionan los sistemas completos.
 
-Actualmente desarrollo soluciones utilizando:
+Actualmente estoy aprendiendo y trabajando con:
 
 - 📱 Aplicaciones móviles con Flutter
 - 🐍 Backend con Python y Django
 - 🌐 APIs REST
-- 🗄️ PostgreSQL y Supabase
-- 🔐 Sistemas con autenticación y seguridad
-- 🏗️ Arquitectura de software
+- 🗄️ Bases de datos SQL y NoSQL
+- 🔐 Autenticación y seguridad
+- 🏗️ Arquitectura y buenas prácticas de software
 
 
 ---
@@ -94,7 +94,7 @@ Aplicación móvil enfocada en seguridad familiar y localización en tiempo real
 
 ### Tecnologías:
 
-```
+```text
 Flutter
 Firebase
 Mapbox
@@ -106,12 +106,12 @@ REST APIs
 
 # ☕ Coffee Shop System
 
-Sistema de gestión para cafetería desarrollado para digitalizar operaciones de venta y administración.
+Sistema para cafetería desarrollado para mejorar la gestión de productos, pedidos y pagos.
 
 
 ### Objetivo:
 
-Crear una solución tecnológica para facilitar la gestión de productos, pedidos y pagos dentro de una cafetería.
+Crear una solución tecnológica que facilite la operación diaria de una cafetería mediante software.
 
 
 ### Características:
@@ -126,7 +126,7 @@ Crear una solución tecnológica para facilitar la gestión de productos, pedido
 
 ### Tecnologías:
 
-```
+```text
 Flutter
 Python
 FastAPI
@@ -145,7 +145,7 @@ Sistema POS desarrollado para un negocio de productos de belleza.
 
 ### Objetivo:
 
-Crear una plataforma web moderna para administrar procesos comerciales y reemplazar sistemas tradicionales de punto de venta.
+Crear una plataforma moderna para administrar procesos de venta y operación mediante un sistema web.
 
 
 ### Características:
@@ -163,27 +163,31 @@ Crear una plataforma web moderna para administrar procesos comerciales y reempla
 
 ### Arquitectura:
 
-```
+```text
 Vue 3
-   |
-   |
+
+    ↓
+
 REST API
-   |
-   |
+
+    ↓
+
 Django REST Framework
-   |
-   |
+
+    ↓
+
 PostgreSQL + Supabase
 ```
 
 
 ### Tecnologías:
 
-```
+```text
 Vue 3
 Django
 Django REST Framework
 PostgreSQL
+Supabase
 JWT
 Git
 ```
@@ -193,16 +197,17 @@ Git
 
 # 🧠 Actualmente aprendiendo
 
-- Diseño de APIs escalables
-- Django
-- Seguridad backend
-- Patrones de diseño
-- Buenas prácticas de desarrollo
-- Desarrollo profesional con Git
 - Python
-- Dart
+- Django
+- Django REST Framework
 - Flutter
-- Bases de datos SQL Y NoSQL
+- Dart
+- Diseño de APIs
+- Bases de datos SQL y NoSQL
+- Autenticación con JWT
+- Arquitectura de software
+- Buenas prácticas de programación
+- Control de versiones con Git
 
 
 ---
@@ -242,13 +247,12 @@ Git
 
 Seguir creciendo como desarrollador y construir software útil, funcional y bien diseñado.
 
-Mi objetivo es crear soluciones tecnológicas que ayuden a personas y empresas a mejorar sus procesos mediante software.
+Mi objetivo es seguir aprendiendo, crear mejores soluciones y desarrollar sistemas que ayuden a personas y negocios.
 
 
 ---
 
 # 📫 Contacto
-
 
 📧 Email:
 
