@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Software Developer | Backend & Mobile Developer
+  Software Developer | Flutter & Backend Developer
 </h3>
 
 <p align="center">
@@ -212,33 +212,11 @@ Git
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub
 
+Puedes encontrar mis proyectos, avances y código en mi perfil:
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tony1282&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tony1282&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
----
-
-# 🐍 Contribution Snake
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-
-</p>
+🔗 https://github.com/tony1282
 
 
 ---
