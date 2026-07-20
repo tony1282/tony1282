@@ -140,7 +140,7 @@ REST APIs
 
 # 🇮🇹 Italian POS System
 
-Sistema POS empresarial desarrollado para una empresa.
+Sistema POS desarrollado para un negocio de productos de belleza.
 
 
 ### Objetivo:
@@ -184,7 +184,6 @@ Vue 3
 Django
 Django REST Framework
 PostgreSQL
-Supabase
 JWT
 Git
 ```
@@ -194,13 +193,16 @@ Git
 
 # 🧠 Actualmente aprendiendo
 
-- Arquitectura de software
 - Diseño de APIs escalables
-- Django avanzado
+- Django
 - Seguridad backend
 - Patrones de diseño
 - Buenas prácticas de desarrollo
 - Desarrollo profesional con Git
+- Python
+- Dart
+- Flutter
+- Bases de datos SQL Y NoSQL
 
 
 ---
