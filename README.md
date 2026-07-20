@@ -1,9 +1,9 @@
 <h1 align="center">
-  👋 Hola, soy Antony
+  👋 Hola, soy Antony de la Cruz Ramos
 </h1>
 
 <h3 align="center">
-  Backend Developer | Flutter Developer | Software Builder
+  software Engineer
 </h3>
 
 <p align="center">
