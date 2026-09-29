@@ -101,7 +101,7 @@ Aplicación para digitalizar la gestión de pedidos y pagos de una cafetería.
 - Integración y manejo de eventos de pago mediante webhooks.
 - Desarrollo del dashboard móvil para la gestión de pedidos.
 
-**Tecnologías utilizadas:** Flutter · Dart · Python · FastAPI ·MySQLite · Mercado Pago · REST API
+**Tecnologías utilizadas:** Flutter · Dart · Python · FastAPI · SQLite · Mercado Pago · REST API
 
 ---
 
@@ -126,14 +126,19 @@ Aplicación móvil de delivery desarrollada como proyecto integrador.
 
 ### Milk Management System
 
-Aplicación móvil para gestionar información relacionada con la producción de leche.
+Aplicación móvil para gestionar y analizar la producción de leche, ingresos, gastos y ganancias de la producción.
 
 **Mi participación:** Desarrollo completo de la aplicación.
 
-- Registro y consulta de producción.
-- Organización de información histórica.
-- Gestión de datos relacionados con el proceso productivo.
-- Persistencia de información.
+- Registro y consulta de producción de leche.
+- Cálculo del precio de la leche por rangos de fechas.
+- Cálculo de pagos realizados y adeudos por productor o lechero.
+- Gestión de compras de alimento para el ganado.
+- Asociación de gastos de alimento con periodos de producción.
+- Descuento de los costos de alimento correspondientes al periodo de producción.
+- Cálculo de ganancias brutas y ganancias netas.
+- Organización y consulta de información histórica.
+- Persistencia y gestión de datos relacionados con la producción.
 
 **Tecnologías utilizadas:** Flutter · Dart · Firebase
 
@@ -149,6 +154,8 @@ Aplicación móvil enfocada en seguridad familiar y comunicación ante situacion
 
 - Desarrollo de funcionalidades móviles con Flutter.
 - Implementación de alertas SOS.
+- Integración de zonas de riesgo de Tlaxcala.
+- Implementación de círculos familiares.
 - Integración de mapas y localización.
 - Implementación de notificaciones.
 - Consumo de servicios REST.
