@@ -101,7 +101,7 @@ Aplicación para digitalizar la gestión de pedidos y pagos de una cafetería.
 - Integración y manejo de eventos de pago mediante webhooks.
 - Desarrollo del dashboard móvil para la gestión de pedidos.
 
-**Tecnologías utilizadas:** Flutter · Dart · Python · FastAPI · PostgreSQL · Mercado Pago · REST API
+**Tecnologías utilizadas:** Flutter · Dart · Python · FastAPI ·MySQLite · Mercado Pago · REST API
 
 ---
 
