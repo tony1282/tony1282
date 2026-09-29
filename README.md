@@ -72,7 +72,7 @@ Actualmente trabajo y aprendo con:
 
 ## Profesionales / Freelance
 
-### Italian POS System
+### Ruby POS System
 
 Sistema POS web desarrollado para un negocio de productos de belleza.
 
