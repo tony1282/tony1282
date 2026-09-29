@@ -1,3 +1,73 @@
+<h1 align="center">
+  Hola, soy Antony de la Cruz Ramos
+</h1>
+
+<h3 align="center">
+  Desarrollador de Software
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aprendiendo+y+creando+software;Python+%2B+Django+%2B+Flutter;Construyendo+aplicaciones+reales;Mejorando+mis+habilidades+cada+día" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tony1282&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# Sobre mí
+
+Soy desarrollador de software en formación, con experiencia práctica en el desarrollo de aplicaciones móviles, sistemas administrativos y soluciones backend.
+
+Me gusta aprender construyendo proyectos reales, mejorar mis habilidades de programación y comprender cómo funcionan los sistemas de manera integral.
+
+Actualmente trabajo y aprendo con:
+
+- Desarrollo de aplicaciones móviles con Flutter
+- Desarrollo backend con Python y Django
+- APIs REST
+- Bases de datos SQL y NoSQL
+- Autenticación y seguridad
+- Arquitectura y buenas prácticas de software
+
+---
+
+# Tecnologías
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,django,fastapi,vue,postgres,supabase,firebase,git,github,vscode" />
+</p>
+
+## Frontend y móvil
+
+- Flutter
+- Dart
+- Vue 3
+- Mapbox
+- Firebase
+- Diseño de interfaces
+
+## Backend y bases de datos
+
+- Python
+- Django
+- Django REST Framework
+- FastAPI
+- PostgreSQL
+- Supabase
+- REST APIs
+- JWT Authentication
+
+## Herramientas
+
+- Git
+- GitHub
+- Postman
+- VS Code
+
+---
+
 # Proyectos
 
 ## Profesionales / Freelance
@@ -84,3 +154,49 @@ Aplicación móvil enfocada en seguridad familiar y comunicación ante situacion
 - Consumo de servicios REST.
 
 **Tecnologías utilizadas:** Flutter · Dart · Firebase · Mapbox · REST API
+
+---
+
+# Actualmente aprendiendo
+
+- Python
+- Django
+- Django REST Framework
+- Flutter
+- Dart
+- Diseño de APIs
+- Bases de datos SQL y NoSQL
+- Autenticación con JWT
+- Arquitectura de software
+- Buenas prácticas de programación
+- Control de versiones con Git
+
+---
+
+# GitHub
+
+Puedes encontrar mis proyectos, avances y código en mi perfil:
+
+https://github.com/tony1282
+
+---
+
+# Objetivo
+
+Seguir creciendo como desarrollador de software y construir soluciones útiles, funcionales y bien diseñadas.
+
+Mi objetivo es seguir aprendiendo, enfrentar nuevos retos tecnológicos y desarrollar sistemas que aporten valor a personas y negocios.
+
+---
+
+# Contacto
+
+Email:
+
+antonydelacruzramos@gmail.com
+
+---
+
+<h3 align="center">
+  Siempre aprendiendo, construyendo y mejorando.
+</h3>
