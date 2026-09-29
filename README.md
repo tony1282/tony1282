@@ -3,47 +3,43 @@
 </h1>
 
 <h3 align="center">
-  Software Developer | Flutter & Backend Developer
+  Software Developer | Backend & Mobile Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aprendiendo+y+creando+software;Flutter+%2B+Dart+%2B+Python;Construyendo+aplicaciones+reales;Mejorando+mis+habilidades+cada+día" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Aprendiendo+y+creando+software;Python+%2B+Django+%2B+Flutter;Construyendo+aplicaciones+reales;Mejorando+mis+habilidades+cada+día" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tony1282&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-
 ---
 
-# 🚀 Sobre mí
+# About Me
 
 Soy desarrollador en formación enfocado en crear aplicaciones móviles, sistemas administrativos y soluciones backend.
 
 Me gusta aprender construyendo proyectos reales, mejorar mis habilidades de programación y entender cómo funcionan los sistemas completos.
 
-Actualmente estoy aprendiendo y trabajando con:
+Actualmente estoy trabajando y aprendiendo sobre:
 
-- 📱 Aplicaciones móviles con Flutter
-- 🐍 Backend con Python y Django
-- 🌐 APIs REST
-- 🗄️ Bases de datos SQL y NoSQL
-- 🔐 Autenticación y seguridad
-- 🏗️ Arquitectura y buenas prácticas de software
-
+- Aplicaciones móviles con Flutter
+- Backend con Python y Django
+- APIs REST
+- Bases de datos SQL y NoSQL
+- Autenticación y seguridad
+- Arquitectura y buenas prácticas de software
 
 ---
 
-# 🛠️ Tecnologías
-
+# Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,django,fastapi,vue,postgres,supabase,firebase,git,github,vscode" />
 </p>
 
-
-## 📱 Frontend & Mobile
+## Frontend & Mobile
 
 - Flutter
 - Dart
@@ -52,8 +48,7 @@ Actualmente estoy aprendiendo y trabajando con:
 - Firebase
 - Diseño de interfaces
 
-
-## 🐍 Backend & Database
+## Backend & Database
 
 - Python
 - Django
@@ -64,170 +59,94 @@ Actualmente estoy aprendiendo y trabajando con:
 - REST APIs
 - JWT Authentication
 
-
-## 🔧 Herramientas
+## Tools
 
 - Git
 - GitHub
 - Postman
 - VS Code
 
+---
+
+# Projects
+
+## Professional / Freelance
+
+### Italian POS System
+
+Sistema POS web desarrollado para un negocio de productos de belleza.
+
+- Gestión de productos, variantes e inventario.
+- Control de ventas, cajas y cortes.
+- Gestión de devoluciones y garantías.
+- Reportes y bitácora de operaciones.
+- Autenticación y control de roles y permisos.
+
+**Technologies:** Vue 3 · Django · Django REST Framework · PostgreSQL · Supabase · JWT
 
 ---
 
-# 📂 Proyectos
+### Coffee Shop System
 
+Sistema desarrollado para digitalizar la gestión de pedidos y pagos de una cafetería.
 
-## 🚨 Family SOS App
+- Gestión de productos y pedidos.
+- Integración de pagos mediante Mercado Pago.
+- Gestión de eventos de pago mediante webhooks.
+- Dashboard móvil para la gestión de pedidos.
+- Comunicación entre aplicación móvil y backend.
 
-Aplicación móvil enfocada en seguridad familiar y localización en tiempo real.
-
-
-### Características:
-
-- 📍 Localización en tiempo real
-- 🚨 Sistema SOS
-- 👨‍👩‍👧 Círculos familiares
-- 🔔 Notificaciones push
-- 🗺️ Integración con mapas
-
-
-### Tecnologías:
-
-```text
-Flutter
-Firebase
-Mapbox
-REST APIs
-```
-
+**Technologies:** Flutter · Dart · Python · FastAPI · PostgreSQL · Mercado Pago · REST API
 
 ---
 
-# ☕ Coffee Shop System
+## Integrator Project
 
-Sistema para cafetería desarrollado para mejorar la gestión de productos, pedidos y pagos.
+### SABIX Delivery
 
+Aplicación de delivery desarrollada como proyecto integrador para gestionar pedidos y entregas mediante una aplicación móvil conectada a un backend.
 
-### Objetivo:
+- Gestión y consulta de pedidos.
+- Comunicación entre aplicación móvil y backend.
+- Consumo de API REST.
+- Funcionalidades orientadas al proceso de delivery.
 
-Crear una solución tecnológica que facilite la operación diaria de una cafetería mediante software.
-
-
-### Características:
-
-- ☕ Gestión de productos
-- 🛒 Registro de pedidos
-- 💳 Integración con Mercado Pago
-- 📦 Control de inventario
-- 🔄 Comunicación aplicación móvil - backend
-- 📊 Organización de información para operación diaria
-
-
-### Tecnologías:
-
-```text
-Flutter
-Python
-FastAPI
-Mercado Pago API
-PostgreSQL
-REST APIs
-```
-
+**Technologies:** Flutter · Dart · Django · REST API · PostgreSQL
 
 ---
 
-# 🥛 Milk Management System
+## Personal Projects
 
-Sistema para gestión y control de producción de leche.
+### Milk Management System
 
+Sistema para gestionar y organizar información relacionada con la producción de leche.
 
-### Objetivo:
+- Registro de producción.
+- Control de información histórica.
+- Seguimiento de datos del proceso productivo.
+- Organización y consulta de información.
 
-Crear una solución tecnológica para organizar la información de producción, facilitar el seguimiento de datos y mejorar el control del proceso.
-
-
-### Características:
-
-- 🥛 Registro de producción diaria
-- 📅 Control por fechas y registros históricos
-- 📦 Seguimiento de inventario
-- 📊 Organización de datos para análisis
-- 📝 Administración de información del proceso productivo
-
-
-### Tecnologías:
-
-```text
-Flutter
-Python
-REST APIs
-PostgreSQL
-Bases de datos
-```
-
+**Technologies:** Flutter · Dart · Firebase
 
 ---
 
-# 🇮🇹 Italian POS System
+## Academic Projects
 
-Sistema POS desarrollado para un negocio de productos de belleza.
+### Family SOS App
 
+Aplicación móvil enfocada en seguridad familiar y comunicación ante situaciones de emergencia.
 
-### Objetivo:
+- Sistema de alertas SOS.
+- Localización y mapas.
+- Círculos familiares.
+- Notificaciones push.
+- Comunicación mediante servicios REST.
 
-Crear una plataforma moderna para administrar procesos de venta y operación mediante un sistema web.
-
-
-### Características:
-
-- 🔐 Autenticación con JWT
-- 👥 Gestión de usuarios y roles
-- 🛡️ Control de permisos
-- 📦 Administración de productos
-- 📊 Control de inventario
-- 💰 Gestión de ventas
-- 🧾 Generación de tickets
-- 📈 Reportes administrativos
-- 📝 Bitácora de operaciones
-
-
-### Arquitectura:
-
-```text
-Vue 3
-
-    ↓
-
-REST API
-
-    ↓
-
-Django REST Framework
-
-    ↓
-
-PostgreSQL + Supabase
-```
-
-
-### Tecnologías:
-
-```text
-Vue 3
-Django
-Django REST Framework
-PostgreSQL
-Supabase
-JWT
-Git
-```
-
+**Technologies:** Flutter · Firebase · Mapbox · REST API
 
 ---
 
-# 🧠 Actualmente aprendiendo
+# Currently Learning
 
 - Python
 - Django
@@ -241,36 +160,32 @@ Git
 - Buenas prácticas de programación
 - Control de versiones con Git
 
-
 ---
 
-# 📊 GitHub
+# GitHub
 
 Puedes encontrar mis proyectos, avances y código en mi perfil:
 
-🔗 https://github.com/tony1282
-
+https://github.com/tony1282
 
 ---
 
-# 🎯 Objetivo
+# Goal
 
 Seguir creciendo como desarrollador y construir software útil, funcional y bien diseñado.
 
 Mi objetivo es seguir aprendiendo, crear mejores soluciones y desarrollar sistemas que ayuden a personas y negocios.
 
-
 ---
 
-# 📫 Contacto
+# Contact
 
-📧 Email:
+Email:
 
 antonydelacruzramos@gmail.com
-
 
 ---
 
 <h3 align="center">
-🚀 Siempre aprendiendo, construyendo y mejorando.
+  Siempre aprendiendo, construyendo y mejorando.
 </h3>
