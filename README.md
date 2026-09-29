@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Software Developer | Backend & Mobile Developer
+  Desarrollador de Software
 </h3>
 
 <p align="center">
@@ -16,16 +16,16 @@
 
 ---
 
-# About Me
+# Sobre mí
 
-Soy desarrollador en formación enfocado en crear aplicaciones móviles, sistemas administrativos y soluciones backend.
+Soy desarrollador de software en formación, con experiencia práctica en el desarrollo de aplicaciones móviles, sistemas administrativos y soluciones backend.
 
-Me gusta aprender construyendo proyectos reales, mejorar mis habilidades de programación y entender cómo funcionan los sistemas completos.
+Me gusta aprender construyendo proyectos reales, mejorar mis habilidades de programación y comprender cómo funcionan los sistemas de manera integral.
 
-Actualmente estoy trabajando y aprendiendo sobre:
+Actualmente trabajo y aprendo con:
 
-- Aplicaciones móviles con Flutter
-- Backend con Python y Django
+- Desarrollo de aplicaciones móviles con Flutter
+- Desarrollo backend con Python y Django
 - APIs REST
 - Bases de datos SQL y NoSQL
 - Autenticación y seguridad
@@ -33,13 +33,13 @@ Actualmente estoy trabajando y aprendiendo sobre:
 
 ---
 
-# Technologies
+# Tecnologías
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,python,django,fastapi,vue,postgres,supabase,firebase,git,github,vscode" />
 </p>
 
-## Frontend & Mobile
+## Frontend y móvil
 
 - Flutter
 - Dart
@@ -48,7 +48,7 @@ Actualmente estoy trabajando y aprendiendo sobre:
 - Firebase
 - Diseño de interfaces
 
-## Backend & Database
+## Backend y bases de datos
 
 - Python
 - Django
@@ -59,7 +59,7 @@ Actualmente estoy trabajando y aprendiendo sobre:
 - REST APIs
 - JWT Authentication
 
-## Tools
+## Herramientas
 
 - Git
 - GitHub
@@ -68,9 +68,9 @@ Actualmente estoy trabajando y aprendiendo sobre:
 
 ---
 
-# Projects
+# Proyectos
 
-## Professional / Freelance
+## Profesionales / Freelance
 
 ### Italian POS System
 
@@ -82,7 +82,7 @@ Sistema POS web desarrollado para un negocio de productos de belleza.
 - Reportes y bitácora de operaciones.
 - Autenticación y control de roles y permisos.
 
-**Technologies:** Vue 3 · Django · Django REST Framework · PostgreSQL · Supabase · JWT
+**Tecnologías:** Vue 3 · Django · Django REST Framework · PostgreSQL · Supabase · JWT
 
 ---
 
@@ -94,28 +94,28 @@ Sistema desarrollado para digitalizar la gestión de pedidos y pagos de una cafe
 - Integración de pagos mediante Mercado Pago.
 - Gestión de eventos de pago mediante webhooks.
 - Dashboard móvil para la gestión de pedidos.
-- Comunicación entre aplicación móvil y backend.
+- Comunicación entre la aplicación móvil y el backend.
 
-**Technologies:** Flutter · Dart · Python · FastAPI · PostgreSQL · Mercado Pago · REST API
+**Tecnologías:** Flutter · Dart · Python · FastAPI · PostgreSQL · Mercado Pago · REST API
 
 ---
 
-## Integrator Project
+## Proyecto integrador
 
 ### SABIX Delivery
 
 Aplicación de delivery desarrollada como proyecto integrador para gestionar pedidos y entregas mediante una aplicación móvil conectada a un backend.
 
 - Gestión y consulta de pedidos.
-- Comunicación entre aplicación móvil y backend.
+- Comunicación entre la aplicación móvil y el backend.
 - Consumo de API REST.
 - Funcionalidades orientadas al proceso de delivery.
 
-**Technologies:** Flutter · Dart · Django · REST API · PostgreSQL
+**Tecnologías:** Flutter · Dart · Django · REST API · PostgreSQL
 
 ---
 
-## Personal Projects
+## Proyectos personales
 
 ### Milk Management System
 
@@ -126,11 +126,11 @@ Sistema para gestionar y organizar información relacionada con la producción d
 - Seguimiento de datos del proceso productivo.
 - Organización y consulta de información.
 
-**Technologies:** Flutter · Dart · Firebase
+**Tecnologías:** Flutter · Dart · Firebase
 
 ---
 
-## Academic Projects
+## Proyectos académicos
 
 ### Family SOS App
 
@@ -142,11 +142,11 @@ Aplicación móvil enfocada en seguridad familiar y comunicación ante situacion
 - Notificaciones push.
 - Comunicación mediante servicios REST.
 
-**Technologies:** Flutter · Firebase · Mapbox · REST API
+**Tecnologías:** Flutter · Firebase · Mapbox · REST API
 
 ---
 
-# Currently Learning
+# Actualmente aprendiendo
 
 - Python
 - Django
@@ -170,15 +170,15 @@ https://github.com/tony1282
 
 ---
 
-# Goal
+# Objetivo
 
-Seguir creciendo como desarrollador y construir software útil, funcional y bien diseñado.
+Seguir creciendo como desarrollador de software y construir soluciones útiles, funcionales y bien diseñadas.
 
-Mi objetivo es seguir aprendiendo, crear mejores soluciones y desarrollar sistemas que ayuden a personas y negocios.
+Mi objetivo es seguir aprendiendo, enfrentar nuevos retos tecnológicos y desarrollar sistemas que aporten valor a personas y negocios.
 
 ---
 
-# Contact
+# Contacto
 
 Email:
 
